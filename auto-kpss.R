@@ -5,8 +5,8 @@
 ###   Automatic function for kpss.test    ###
 ###   To be used only with ts objects     ###
 
-require(urca)
-require(ArgumentCheck)
+require("urca")
+require("ArgumentCheck")
 
 # Arguments to be set:
 # data: vector to be tested for unit root;
